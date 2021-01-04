@@ -5,7 +5,7 @@
 
 * 理念說明影片 
   * 由助教錄製
-  * [雲端連結] (https://drive.google.com/file/d/1YFOTTzQTgjDRBU5U8ZtUNeh-BGXD_wPW/view?usp=sharing/ "Title")
+  * [雲端連結](https://drive.google.com/file/d/1YFOTTzQTgjDRBU5U8ZtUNeh-BGXD_wPW/view?usp=sharing/)
   
 * 作品策展現場相片
 
