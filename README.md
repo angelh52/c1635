@@ -7,10 +7,9 @@
   * 由助教錄製
   * [雲端連結](https://drive.google.com/file/d/1YFOTTzQTgjDRBU5U8ZtUNeh-BGXD_wPW/view?usp=sharing/)
   
-* 作品策展現場相片
-
 * 海報電子檔
 
+* 作品策展現場相片
 
 * 期末呈現之投影片檔案
 
