@@ -8,6 +8,7 @@
   * [雲端連結](https://drive.google.com/file/d/1YFOTTzQTgjDRBU5U8ZtUNeh-BGXD_wPW/view?usp=sharing/)
   
 * 海報電子檔
+  * include png and pdf files
 
 * 作品策展現場相片
 
