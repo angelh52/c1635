@@ -10,7 +10,7 @@
 * 海報電子檔
   * include png and pdf files
 
-* 作品策展現場相片
+* 作品策展現場相片 (exibition_demo)
 
 * 期末呈現之投影片檔案
 
