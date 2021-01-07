@@ -17,6 +17,7 @@
   * exibition_demo2.jpg
 
 * 期末呈現之投影片
+  * GestureFlow.pdf
 
 * 程式原始碼
 
