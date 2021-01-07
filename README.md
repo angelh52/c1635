@@ -2,18 +2,21 @@
 創作者: 黃雯琪 
 
 * Artwork Proposal
+  * c1635-Artwork-Proposal.pdf
 
 * 理念說明影片 
   * 由助教錄製
-  * [雲端連結](https://drive.google.com/file/d/1YFOTTzQTgjDRBU5U8ZtUNeh-BGXD_wPW/view?usp=sharing/)
+  * [作品介紹_黃雯琪.mp4](https://drive.google.com/file/d/1YFOTTzQTgjDRBU5U8ZtUNeh-BGXD_wPW/view?usp=sharing/)
   
 * 海報電子檔
-  * include png and pdf files
+  * poster.pdf 
+  * poster_final.png
 
-* 作品策展現場相片 (exibition_demo)
+* 作品策展現場相片
+  * exibition_demo.jpg
+  * exibition_demo2.jpg
 
-* 期末呈現之投影片檔案
-
+* 期末呈現之投影片
 
 * 程式原始碼
 
