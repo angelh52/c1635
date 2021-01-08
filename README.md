@@ -13,8 +13,10 @@
   * poster_final.png
 
 * 作品策展現場相片
-  * exibition_demo.jpg
-  * exibition_demo2.jpg
+  * exibition_setup.jpg: 策展現場
+  * movement_detection_area.jpg: 人體動態捕捉場域
+  * interaction1.jpg & interaction2.jpg: 動態捕捉的過程
+  * interaction_result.jpg: 動態捕捉結合演算法結果呈現
 
 * 期末呈現之投影片
   * GestureFlow.pdf
