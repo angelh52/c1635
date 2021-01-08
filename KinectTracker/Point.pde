@@ -10,7 +10,7 @@ class Point {
    Point() {
       X=mouseX;
       Y=mouseY;
-      w = random(1 / thresholdBall, thresholdBall);
+      w = random(1 / thresholdPoint, thresholdPoint);
    }
 
    void render() {
