@@ -10,7 +10,6 @@
   
 * 海報電子檔
   * poster.pdf 
-  * poster_final.png
 
 * 作品策展現場相片
   * exibition_setup.jpg: 策展現場
